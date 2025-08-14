@@ -11,11 +11,15 @@
       <td align="center">
         <a href="https://github.com/Altair5869"><img src="https://avatars.githubusercontent.com/u/103111315?v=4" width="100px;" alt="김태훈"/><br /></a>
       </td>
+      <td align="center">
+        <a href="https://github.com/SeeunJung"><img src="https://avatars.githubusercontent.com/u/141086226?v=4" width="100px;" alt="정세은"/><br /></a>
+      </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Ogu1208">이우창</a></td>
       <td align="center"><a href="https://github.com/EndlessMilkyway">김영렬</a></td>
       <td align="center"><a href="https://github.com/karlislepark">김태훈</a></td>
+      <td align="center"><a href="https://github.com/SeeunJung">정세은</a></td>
     </tr>
   </tbody>
 </table>
