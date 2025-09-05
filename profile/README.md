@@ -35,7 +35,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Ogu1208">이우창*</a></td>
+      <td align="center"><a href="https://github.com/changi1122">이우창*</a></td>
       <td align="center"><a href="https://github.com/EndlessMilkyway">김영렬</a></td>
       <td align="center"><a href="https://github.com/Altair5869">김태훈</a></td>
     </tr>
